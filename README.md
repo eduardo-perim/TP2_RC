@@ -30,7 +30,7 @@ A ideia é criar um Socket TCP com chat em tempo real entre um Servidor e Client
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/eduardo-perim/TP2_RC.git>
 2. **Instale as dependências:**
     ```bash
     pip install cryptography
