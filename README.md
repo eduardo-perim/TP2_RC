@@ -1,7 +1,7 @@
 # Servidor de Chat com Suporte a Criptografia
 
 ## Descrição
-A ideia é criar um Socket TCP com chat em tempo real entre um Servidor e Cliente. Haverá duas camadas de criptagrafia para proteger o conteúdo das mensagens enviadas e recebidas. O chat será colocado em prática com o auxílio de uma interface gráfica para a troca de mensagens.
+A ideia é criar um Socket TCP com chat em tempo real entre um Servidor e Clientes. Haverá duas camadas de criptagrafia para proteger o conteúdo das mensagens enviadas e recebidas. O chat será colocado em prática com o auxílio de uma interface gráfica para a troca de mensagens.
 
 ---
 
@@ -63,4 +63,4 @@ A ideia é criar um Socket TCP com chat em tempo real entre um Servidor e Client
 
 ### Possíveis Melhorias Futuras
 
-  Expandir o conceito para abrigar diversos clientes num chat, cada um com criptografia própria entre o servidor e si mesmo.
+ Criar uma interface mais rebuscada, testar outros tipos de criptografia e adicionar uma possível interação entre clientes (um cliente escolhe mandar a mensagem não apenas ao servidor, mas também para outro cliente específico)
